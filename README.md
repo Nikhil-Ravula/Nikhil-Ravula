@@ -32,8 +32,10 @@ I'm passionate about building intuitive, scalable digital education platforms an
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **Digital Learning Hub / LMS** | Comprehensive education portal with course management, student tracking, and interactive learning modules | Django, SQLite, Python |
-| **Room Expense Tracker** | Financial tracking application for managing shared expenses with real-time calculations and reports | Python, SQLite |
+| **Abhyas** | Comprehensive digital learning hub and LMS with course management, student tracking, and interactive learning modules | Django, SQLite, Python |
+| **Disha** | Educational platform for personalized learning paths and resource management | Python, SQLite |
+| **Personal-Expenses** | Advanced personal expense tracking application with detailed analytics and budget management | Python, SQLite, JavaScript |
+| **Room-Expense-Tracker** | Financial tracking application for managing shared expenses and roommate settlements with real-time calculations | Python, SQLite |
 | **Interactive 3D Particle System** | Real-time web visualizer with gesture controls and immersive animations | Three.js, JavaScript, WebGL |
 
 ---
@@ -59,6 +61,7 @@ I'm passionate about building intuitive, scalable digital education platforms an
 
 - **LinkedIn:** [linkedin.com/in/nikhil-ravula](link-here)
 - **Email:** [nikhilravula8374@gmail.com](mailto:nikhilravula8374@gmail.com)
+- **GitHub:** [github.com/Nikhil-Ravula](https://github.com/Nikhil-Ravula)
 
 ---
 
