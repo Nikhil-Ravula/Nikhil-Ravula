@@ -58,9 +58,7 @@ I'm passionate about building intuitive, scalable digital education platforms an
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/nikhil-ravula](link-here)
-- **Email:** [nikhil@example.com](mailto:nikhil@example.com)
-- **Portfolio:** [nikhilravula.dev](link-here)
-- **Twitter/X:** [@nikhil_ravula](link-here)
+- **Email:** [nikhilravula8374@gmail.com](mailto:nikhilravula8374@gmail.com)
 
 ---
 
