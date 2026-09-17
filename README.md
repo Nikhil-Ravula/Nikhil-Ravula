@@ -36,7 +36,6 @@ I'm passionate about building intuitive, scalable digital education platforms an
 | **Disha** | Discover Internships, Scholarships, Free Certifications, Hackathons, Jobs & more — all in one place. | Python, SQLite |
 | **Personal-Expenses** | Advanced personal expense tracking application with detailed analytics and budget management | Python, SQLite, JavaScript |
 | **Room-Expense-Tracker** | Financial tracking application for managing shared expenses and roommate settlements with real-time calculations | Python, SQLite |
-| **Interactive 3D Particle System** | Real-time web visualizer with gesture controls and immersive animations | Three.js, JavaScript, WebGL |
 
 ---
 
