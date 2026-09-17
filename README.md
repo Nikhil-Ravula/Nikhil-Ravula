@@ -32,8 +32,8 @@ I'm passionate about building intuitive, scalable digital education platforms an
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **Abhyas** | Comprehensive digital learning hub and LMS with course management, student tracking, and interactive learning modules | Django, SQLite, Python |
-| **Disha** | Educational platform for personalized learning paths and resource management | Python, SQLite |
+| **Abhyas** | Previous Year Questions (PYQs), Important Questions & study resources to improve your exam preparation. | Django, SQLite, Python |
+| **Disha** | Discover Internships, Scholarships, Free Certifications, Hackathons, Jobs & more — all in one place. | Python, SQLite |
 | **Personal-Expenses** | Advanced personal expense tracking application with detailed analytics and budget management | Python, SQLite, JavaScript |
 | **Room-Expense-Tracker** | Financial tracking application for managing shared expenses and roommate settlements with real-time calculations | Python, SQLite |
 | **Interactive 3D Particle System** | Real-time web visualizer with gesture controls and immersive animations | Three.js, JavaScript, WebGL |
